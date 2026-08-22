@@ -1,0 +1,23 @@
+
+[
+  {
+    "question": "What is prompt engineering?",
+    "ground_truth": "Prompt engineering is the practice of developing and optimizing prompts to efficiently use language models for different applications."
+  },
+  {
+    "question": "What is zero-shot prompting?",
+    "ground_truth": "Zero-shot prompting asks a language model to perform a task without providing examples of the desired output."
+  },
+  {
+    "question": "What is few-shot prompting?",
+    "ground_truth": "Few-shot prompting provides a small number of examples in the prompt to guide the language model toward the desired behavior or format."
+  },
+  {
+    "question": "What is Chain-of-Thought prompting?",
+    "ground_truth": "Chain-of-Thought prompting encourages a language model to reason through a complex problem using intermediate reasoning steps."
+  },
+  {
+    "question": "What is ReAct prompting?",
+    "ground_truth": "ReAct combines reasoning with actions, allowing a language model to reason about a task and interact with external tools."
+  }
+]
